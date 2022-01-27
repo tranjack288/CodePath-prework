@@ -4,7 +4,7 @@
 
 Submitted by: **Jack Tran**
 
-Time spent: **1** hours spent in total
+Time spent: **4** hours spent in total
 
 ## User Stories
 
